@@ -20,7 +20,7 @@
 #
 ############################################################
 
-FROM python:3.6-alpine
+FROM python:3.8.14-alpine
 
 MAINTAINER Cyphon <cyphondev@controlscan.com>
 
