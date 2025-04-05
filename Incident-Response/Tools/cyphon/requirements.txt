@@ -15,7 +15,7 @@ django-grappelli==2.11.1
 django-mailbox==4.7.1
 django-picklefield==1.0.0
 django-s3-storage==0.12.4
-Django==1.11.15  # pyup: >=1.0.0,<2.0.0
+Django==5.0.14,<2.0.0
 djangorestframework-jwt==1.11.0
 djangorestframework==3.8.2
 docutils==0.14
@@ -25,7 +25,7 @@ elasticsearch==5.5.3  # pyup: >=5.0.0,<6.0.0
 feedparser==5.2.1
 geoip2==2.8.0
 geopy==1.17.0
-gunicorn==19.8.1
+gunicorn==23.0.0
 html5lib==1.0.1
 httmock==1.2.6
 httplib2==0.11.3
