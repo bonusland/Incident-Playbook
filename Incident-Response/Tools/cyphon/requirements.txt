@@ -20,7 +20,7 @@ djangorestframework-jwt==1.11.0
 djangorestframework==3.8.2
 docutils==0.14
 drfdocs==0.0.11
-ec2-metadata==1.6.0
+ec2-metadata==2.2.0
 elasticsearch==5.5.3  # pyup: >=5.0.0,<6.0.0
 feedparser==5.2.1
 geoip2==2.8.0
@@ -53,5 +53,5 @@ testfixtures==6.2.0
 textblob==0.15.1
 tlslite==0.4.9
 tweepy==3.6.0
-urllib3==1.23
+urllib3==1.26.5
 pipdeptree==0.13.0
